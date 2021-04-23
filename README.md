@@ -1,10 +1,10 @@
 # Hi, I’m Xoan Ross
 - 🏠 Living in La Coruña, Spain.
 - ⛏️ Currently working at [Indra](https://www.indracompany.com/en).
-- 🎥 Soon posting videos at my [Youtube's channel](https://www.youtube.com/channel/UCCzRrb104TMQBzZDnozeEkQ) about codding and other stuff.
 - 📫 You can reach me at my [LinkedIn's profile page](https://www.linkedin.com/in/xoanross).
 
 ## 🧠 Technologies
+
 
 
 <!---
