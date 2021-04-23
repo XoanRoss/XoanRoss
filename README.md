@@ -3,7 +3,8 @@
 - ⛏️ Currently working at [Indra](https://www.indracompany.com/en).
 - 📫 You can reach me at my [LinkedIn's profile page](https://www.linkedin.com/in/xoanross).
 
-## 🧠 Technologies
+## 🧠 Skills
+Java, JavaScript, Spring, MySql, XML, HTML, CSS...
 
 
 
