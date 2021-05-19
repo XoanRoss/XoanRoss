@@ -1,4 +1,4 @@
-# Hi, I’m Xoan Ross
+# Hi, I’m Ross
 - 🏠 Living in La Coruña, Spain.
 - ⛏️ Currently working at [Indra](https://www.indracompany.com/en).
 - 📫 You can reach me at my [LinkedIn's profile page](https://www.linkedin.com/in/xoanross).
