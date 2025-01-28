@@ -1,6 +1,6 @@
 # Hi, I’m Ross
 - 🏠 Living in La Coruña, Spain.
-- ⛏️ Currently working at [Indra](https://www.experis.es).
+- ⛏️ Currently working at [Experis](https://www.experis.es).
 - 📫 You can reach me at my [LinkedIn's profile page](https://www.linkedin.com/in/xoanross).
 
 ## 🧠 Skills
