@@ -1,10 +1,10 @@
 # Hi, I’m Ross
 - 🏠 Living in La Coruña, Spain.
-- ⛏️ Currently working at [Indra](https://www.indracompany.com/en).
+- ⛏️ Currently working at [Indra](https://www.experis.es).
 - 📫 You can reach me at my [LinkedIn's profile page](https://www.linkedin.com/in/xoanross).
 
 ## 🧠 Skills
-Java, JavaScript, Spring, MySql, XML, HTML, CSS...
+Java, Spring Framework, JavaScript, AngularJS, MySql & PostgreSQL, Redis...
 
 
 
